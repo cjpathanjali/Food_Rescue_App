@@ -56,7 +56,7 @@
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:layout_marginTop="10dp"
-        android:background="#a9a9a9"
+        android:background="#C3BCBC"
         android:padding="10dp"
         android:paddingRight="15dp"
         android:paddingLeft="15dp"/>

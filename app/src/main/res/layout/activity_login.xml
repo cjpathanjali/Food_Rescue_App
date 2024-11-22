@@ -1,123 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/back"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/foodbackbround"
     tools:context=".LoginActivity">
 
-
+    <!-- Sign In Title -->
     <TextView
         android:id="@+id/signin"
-        android:layout_width="162dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="121dp"
-        android:layout_marginTop="202dp"
-        android:layout_marginEnd="127dp"
-        android:layout_marginBottom="425dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
         android:background="@drawable/custom_input"
         android:backgroundTint="#35faedcd"
         android:gravity="center"
         android:text="Login"
-        android:textColor="@color/black"
-        android:textSize="40dp"
+        android:textColor="@color/white"
+        android:textSize="40sp"
         android:textStyle="bold" />
 
-    <EditText
-        android:id="@+id/username"
-        android:layout_width="wrap_content"
-        android:layout_height="84dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="58dp"
-        android:layout_marginTop="324dp"
-        android:layout_marginEnd="54dp"
-        android:layout_marginBottom="323dp"
-        android:background="@drawable/custom_input"
-        android:drawableLeft="@drawable/person_asset"
-        android:drawablePadding="5dp"
-        android:ems="10"
-        android:hint="@string/username"
-        android:imeOptions="actionDone"
-        android:inputType="text"
-        android:textColor="@color/black"
-        android:textColorHighlight="@color/black"
-        android:textColorHint="@color/black" />
+    <!-- Center the rest of the content below the "Login" title -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/signin"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="150dp">
 
-    <EditText
-        android:id="@+id/password"
-        android:layout_width="wrap_content"
-        android:layout_height="87dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="57dp"
-        android:layout_marginTop="417dp"
-        android:layout_marginEnd="53dp"
-        android:layout_marginBottom="227dp"
-        android:background="@drawable/custom_input"
-        android:drawableLeft="@drawable/pass_lock"
-        android:drawablePadding="5dp"
-        android:hint="Password"
-        android:imeOptions="actionDone"
-        android:inputType="textPassword"
-        android:textColorHighlight="@color/black"
-        android:textColorHint="@color/black" />
+        <!-- Username Input -->
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/custom_input"
+            android:drawableLeft="@drawable/person_asset"
+            android:drawablePadding="5dp"
+            android:ems="15"
+            android:hint="@string/username"
+            android:imeOptions="actionDone"
+            android:inputType="text"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textStyle="bold" />
 
-    <com.google.android.material.button.MaterialButton
-        android:id="@+id/LoginButton"
-        android:layout_width="wrap_content"
-        android:layout_height="69dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="104dp"
-        android:layout_marginEnd="104dp"
-        android:layout_marginBottom="120dp"
-        android:backgroundTint="@color/white"
-        android:drawableLeft="@drawable/login_button"
-        android:drawablePadding="2dp"
-        android:gravity="center"
-        android:text="Login"
-        android:textColor="@color/black"
-        android:textStyle="bold" />
+        <!-- Password Input -->
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_below="@id/username"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/custom_input"
+            android:drawableLeft="@drawable/pass_lock"
+            android:drawablePadding="5dp"
+            android:ems="15"
+            android:hint="Password"
+            android:imeOptions="actionDone"
+            android:inputType="textPassword"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textStyle="bold" />
 
-    <Button
-        android:id="@+id/signupbtn"
-        android:layout_width="136dp"
-        android:layout_height="55dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="147dp"
-        android:layout_marginEnd="128dp"
-        android:layout_marginBottom="17dp"
-        android:backgroundTint="@color/white"
-        android:drawableLeft="@drawable/ic_baseline_add_24"
-        android:text="Sign up"
-        android:textColor="@color/black"
-        android:textStyle="bold" />
+        <!-- Login Button -->
+        <Button
+            android:id="@+id/LoginButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/password"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:backgroundTint="@color/white"
+            android:drawableLeft="@drawable/login_button"
+            android:drawablePadding="2dp"
+            android:gravity="center"
+            android:text="Login"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
 
+        <!-- Sign Up Button -->
+        <Button
+            android:id="@+id/signupbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/LoginButton"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="@color/white"
+            android:drawableLeft="@drawable/ic_baseline_add_24"
+            android:gravity="center"
+            android:text="Sign up"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <!-- Back Button -->
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/backtn"
-        android:layout_width="77dp"
-        android:layout_height="71dp"
-        android:layout_alignParentStart="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="6dp"
-        android:layout_marginTop="27dp"
-        android:layout_marginEnd="328dp"
-        android:layout_marginBottom="632dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="60dp"
         android:backgroundTint="@color/white"
         android:src="@drawable/ic_baseline_arrow_back_24" />
+
 </RelativeLayout>

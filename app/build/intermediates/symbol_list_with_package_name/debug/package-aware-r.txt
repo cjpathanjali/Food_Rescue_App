@@ -2479,6 +2479,7 @@ drawable addcircle
 drawable avd_hide_password
 drawable avd_show_password
 drawable backarr
+drawable background1gg
 drawable background2gg
 drawable backgroundsky
 drawable btn_checkbox_checked_mtrl
@@ -2683,6 +2684,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id back
 id backtn
 id barrier
 id baseline

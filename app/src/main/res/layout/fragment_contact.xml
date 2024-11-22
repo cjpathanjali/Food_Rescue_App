@@ -13,6 +13,7 @@
         android:layout_height="match_parent"
         android:layout_gravity="center"
         android:text="Contact Us"
+        android:textColor="@color/black"
         android:textAlignment="center"
         android:textSize="65dp"
         android:textStyle="bold" />
@@ -28,7 +29,7 @@
         android:layout_marginEnd="68dp"
         android:layout_marginBottom="356dp"
         android:gravity="center_vertical"
-        android:text="Phone Number:\n\n+91 83107 6220\n\n+91 88806 20320"
+        android:text="Phone Number:\n\n+91 6383945529\n\n+91 9566376811"
         android:textColor="@color/black"
         android:textSize="20dp"
         android:textStyle="italic" />
@@ -41,9 +42,9 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="83dp"
         android:layout_marginEnd="70dp"
-        android:layout_marginBottom="93dp"
+        android:layout_marginBottom="95dp"
         android:gravity="center_vertical"
-        android:text="Email:\n\nSainishwanthraj@gmail.com\n\nPunith.canada@gmail.com"
+        android:text="Email:\n\npathanjalisrm@gmail.com\n\njayasuriyasathya@gmail.com\n"
         android:textColor="@color/black"
         android:textSize="20dp"
         android:textStyle="italic" />

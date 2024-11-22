@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Demeter</string>
+    <string name="app_name">Food Rescue</string>
     <string name="username">Username</string>
     <string name="Password" />
     <string name="title_activity_main_page">MainPage</string>

@@ -6,130 +6,131 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="22"
-8-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml
+8-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml
+9-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:5:5-53:19
+11-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:5:5-53:19
 12        android:allowBackup="true"
-12-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:6:9-35
+12-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.7.0] C:\Users\suvetha\.gradle\caches\transforms-3\0c734a8f9451ded3159b05d46fc9a23a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.7.0] D:\caches\caches\transforms-3\0c734a8f9451ded3159b05d46fc9a23a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:7:9-43
+15-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:7:9-43
 16        android:label="Food Rescue"
-16-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:8:9-36
+16-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:8:9-36
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:9:9-54
+17-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:10:9-35
-19        android:theme="@style/Theme.FoodWaste" >
-19-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:11:9-47
-20        <activity
-20-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:12:9-14:40
-21            android:name="com.example.foodwaste.don_itemList"
-21-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:13:13-41
-22            android:exported="false" />
-22-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:14:13-37
-23        <activity
-23-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:15:9-17:40
-24            android:name="com.example.foodwaste.settings_address"
-24-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:16:13-45
-25            android:exported="false" />
-25-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:17:13-37
-26        <activity
-26-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:18:9-20:40
-27            android:name="com.example.foodwaste.settings_phno"
-27-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:19:13-42
-28            android:exported="false" />
-28-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:20:13-37
-29        <activity
-29-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:21:9-23:40
-30            android:name="com.example.foodwaste.settings_email"
-30-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:22:13-43
-31            android:exported="false" />
-31-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:23:13-37
-32        <activity
-32-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:24:9-26:40
-33            android:name="com.example.foodwaste.settings_password"
-33-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:25:13-46
-34            android:exported="false" />
-34-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:26:13-37
-35        <activity
-35-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:27:9-29:40
-36            android:name="com.example.foodwaste.changepassword"
-36-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:28:13-43
-37            android:exported="false" />
-37-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:29:13-37
-38        <activity
-38-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:30:9-32:40
-39            android:name="com.example.foodwaste.Settings_Activity"
-39-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:31:13-46
-40            android:exported="false" />
-40-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:32:13-37
-41        <activity
-41-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:33:9-37:66
-42            android:name="com.example.foodwaste.NavActivity"
-42-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:34:13-40
-43            android:exported="false"
-43-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:35:13-37
-44            android:label="@string/title_activity_nav"
-44-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:36:13-55
-45            android:theme="@style/Theme.FoodWaste.NoActionBar" />
-45-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:37:13-63
-46        <activity
-46-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:38:9-40:40
-47            android:name="com.example.foodwaste.SignUpActivity"
-47-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:39:13-43
-48            android:exported="false" />
-48-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:40:13-37
-49        <activity
-49-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:41:9-43:40
-50            android:name="com.example.foodwaste.MainPageActivity"
-50-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:42:13-45
-51            android:exported="false" />
-51-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:43:13-37
-52        <activity
-52-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:44:9-52:20
-53            android:name="com.example.foodwaste.LoginActivity"
-53-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:45:13-42
-54            android:exported="true" >
-54-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:46:13-36
-55            <intent-filter>
-55-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:47:13-51:29
-56                <action android:name="android.intent.action.MAIN" />
-56-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:48:17-69
-56-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:48:25-66
-57
-58                <category android:name="android.intent.category.LAUNCHER" />
-58-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:50:17-77
-58-->C:\Users\suvetha\Desktop\food rescue app\app\src\main\AndroidManifest.xml:50:27-74
-59            </intent-filter>
-60        </activity>
-61
-62        <provider
-62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\suvetha\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-63            android:name="androidx.startup.InitializationProvider"
-63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\suvetha\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-64            android:authorities="com.example.foodwaste.androidx-startup"
-64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\suvetha\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-65            android:exported="false" >
-65-->[androidx.emoji2:emoji2:1.0.0] C:\Users\suvetha\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-66            <meta-data
-66-->[androidx.emoji2:emoji2:1.0.0] C:\Users\suvetha\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-67                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\suvetha\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-68                android:value="androidx.startup" />
-68-->[androidx.emoji2:emoji2:1.0.0] C:\Users\suvetha\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-69            <meta-data
-69-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\suvetha\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-70                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-70-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\suvetha\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-71                android:value="androidx.startup" />
-71-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\suvetha\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-72        </provider>
-73    </application>
-74
-75</manifest>
+18-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.FoodWaste" >
+20-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:11:9-47
+21        <activity
+21-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:12:9-14:40
+22            android:name="com.example.foodwaste.don_itemList"
+22-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:13:13-41
+23            android:exported="false" />
+23-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:14:13-37
+24        <activity
+24-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:15:9-17:40
+25            android:name="com.example.foodwaste.settings_address"
+25-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:16:13-45
+26            android:exported="false" />
+26-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:17:13-37
+27        <activity
+27-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:18:9-20:40
+28            android:name="com.example.foodwaste.settings_phno"
+28-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:19:13-42
+29            android:exported="false" />
+29-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:20:13-37
+30        <activity
+30-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:21:9-23:40
+31            android:name="com.example.foodwaste.settings_email"
+31-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:22:13-43
+32            android:exported="false" />
+32-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:23:13-37
+33        <activity
+33-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:24:9-26:40
+34            android:name="com.example.foodwaste.settings_password"
+34-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:25:13-46
+35            android:exported="false" />
+35-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:26:13-37
+36        <activity
+36-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:27:9-29:40
+37            android:name="com.example.foodwaste.changepassword"
+37-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:28:13-43
+38            android:exported="false" />
+38-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:29:13-37
+39        <activity
+39-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:30:9-32:40
+40            android:name="com.example.foodwaste.Settings_Activity"
+40-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:31:13-46
+41            android:exported="false" />
+41-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:32:13-37
+42        <activity
+42-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:33:9-37:66
+43            android:name="com.example.foodwaste.NavActivity"
+43-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:34:13-40
+44            android:exported="false"
+44-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:35:13-37
+45            android:label="@string/title_activity_nav"
+45-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:36:13-55
+46            android:theme="@style/Theme.FoodWaste.NoActionBar" />
+46-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:37:13-63
+47        <activity
+47-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:38:9-40:40
+48            android:name="com.example.foodwaste.SignUpActivity"
+48-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:39:13-43
+49            android:exported="false" />
+49-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:40:13-37
+50        <activity
+50-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:41:9-43:40
+51            android:name="com.example.foodwaste.MainPageActivity"
+51-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:42:13-45
+52            android:exported="false" />
+52-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:43:13-37
+53        <activity
+53-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:44:9-52:20
+54            android:name="com.example.foodwaste.LoginActivity"
+54-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:45:13-42
+55            android:exported="true" >
+55-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:46:13-36
+56            <intent-filter>
+56-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:47:13-51:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:48:17-69
+57-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:48:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:50:17-77
+59-->D:\Desktop\food rescue app\app\src\main\AndroidManifest.xml:50:27-74
+60            </intent-filter>
+61        </activity>
+62
+63        <provider
+63-->[androidx.emoji2:emoji2:1.0.0] D:\caches\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+64            android:name="androidx.startup.InitializationProvider"
+64-->[androidx.emoji2:emoji2:1.0.0] D:\caches\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+65            android:authorities="com.example.foodwaste.androidx-startup"
+65-->[androidx.emoji2:emoji2:1.0.0] D:\caches\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+66            android:exported="false" >
+66-->[androidx.emoji2:emoji2:1.0.0] D:\caches\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+67            <meta-data
+67-->[androidx.emoji2:emoji2:1.0.0] D:\caches\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+68                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+68-->[androidx.emoji2:emoji2:1.0.0] D:\caches\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+69                android:value="androidx.startup" />
+69-->[androidx.emoji2:emoji2:1.0.0] D:\caches\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+70            <meta-data
+70-->[androidx.lifecycle:lifecycle-process:2.4.0] D:\caches\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+71                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+71-->[androidx.lifecycle:lifecycle-process:2.4.0] D:\caches\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+72                android:value="androidx.startup" />
+72-->[androidx.lifecycle:lifecycle-process:2.4.0] D:\caches\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+73        </provider>
+74    </application>
+75
+76</manifest>

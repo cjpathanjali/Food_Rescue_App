@@ -1,282 +1,278 @@
 [
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable-v24_gradient_2.webp.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable-v24\\gradient_2.webp"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_baseline_info_24.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_baseline_info_24.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_custom_input2.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\custom_input2.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_fragment_compost.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/fragment_compost.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_baseline_radio_button_unchecked_24.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_baseline_radio_button_unchecked_24.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_activity_main_page.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/activity_main_page.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_baseline_account_box_24.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_baseline_account_box_24.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_fragment_about.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/fragment_about.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_content_nav.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\content_nav.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_custom_input2.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/custom_input2.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_menu_slideshow.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_menu_slideshow.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable-v24_whitebg.jpeg.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable-v24/whitebg.jpeg"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_trash_img.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\trash_img.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_popup.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/popup.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_activity_settings_email.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\activity_settings_email.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_pass_lock.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/pass_lock.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_compost.jpg.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\compost.jpg"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_activity_settings_address.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/activity_settings_address.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_baseline_info_24.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_baseline_info_24.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_popup2.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/popup2.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_backarr.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\backarr.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.foodwaste.app-main-7:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_activity_settings.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\activity_settings.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/navigation_nav_graph2.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/navigation/nav_graph2.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_person_asset.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\person_asset.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_menu_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_side_nav_bar.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\side_nav_bar.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_addcircle.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/addcircle.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_baseline_alternate_email_24.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_baseline_alternate_email_24.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable-v24_backgroundsky.jpeg.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable-v24/backgroundsky.jpeg"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_baseline_food_bank_24.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_baseline_food_bank_24.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_baseline_radio_button_unchecked_24.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_baseline_radio_button_unchecked_24.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable-v24_background1gg.jpeg.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable-v24\\background1gg.jpeg"
+        "merged": "com.example.foodwaste.app-merged_res-5:/menu_nav.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/menu/nav.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\navigation_nav_graph3.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\navigation\\nav_graph3.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/navigation_nav_graph.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/navigation/nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_menu_camera.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_menu_camera.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_activity_nav.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/activity_nav.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_activity_nav.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\activity_nav.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_activity_settings.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/activity_settings.xml"
     },
     {
-        "merged": "com.example.foodwaste.app-merged_res-35:/layout_popup.xml.flat",
-        "source": "com.example.foodwaste.app-main-37:/layout/popup.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_content_nav.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/content_nav.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_login_button.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\login_button.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.foodwaste.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_custom_input.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\custom_input.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_activity_settings_email.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/activity_settings_email.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_popup2.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\popup2.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_baseline_contact_page_24.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_baseline_contact_page_24.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable-v24_foodbackground.jpg.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable-v24\\foodbackground.jpg"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_fragment_profile.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/fragment_profile.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_baseline_date_range_24.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_baseline_date_range_24.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_baseline_arrow_back_24.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_activity_settings_address.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\activity_settings_address.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable-v24_foodbackbround.JPG.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable-v24/foodbackbround.JPG"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_activity_login.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_addcircle.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\addcircle.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_baseline_phone_24.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_baseline_phone_24.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_baseline_add_24.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_profile_img.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\profile_img.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_baseline_history_24.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_baseline_history_24.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_baseline_home_24.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_baseline_home_24.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_fragment_home.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_fragment_contact.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\fragment_contact.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_activity_settings_password.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/activity_settings_password.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\menu_activity_nav2_drawer.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\menu\\activity_nav2_drawer.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.foodwaste.app-main-7:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_activity_ngo_home.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\activity_ngo_home.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_baseline_logout_24.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_baseline_logout_24.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_activity_main_page.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\activity_main_page.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_baseline_date_range_24.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_baseline_date_range_24.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_activity_sign_up.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\activity_sign_up.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_fragment_logout.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\fragment_logout.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_backarr.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/backarr.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_popup.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\popup.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_baseline_alternate_email_24.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_baseline_alternate_email_24.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_home_address.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\home_address.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_baseline_food_bank_24.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_baseline_food_bank_24.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\navigation_nav_graph2.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\navigation\\nav_graph2.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/side_nav_bar.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_baseline_add_24.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_baseline_add_24.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_activity_settings_phno.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/activity_settings_phno.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\activity_login.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_person_asset.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/person_asset.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\menu_nav.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\menu\\nav.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_fragment_logout.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/fragment_logout.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_menu_gallery.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_menu_gallery.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_compost.jpg.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/compost.jpg"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_nav_header_nav.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\nav_header_nav.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_profile_img.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/profile_img.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_fragment_about.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\fragment_about.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable-v24_gradient_2.webp.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable-v24/gradient_2.webp"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable-v24_whitebg.jpeg.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable-v24\\whitebg.jpeg"
+        "merged": "com.example.foodwaste.app-merged_res-5:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/navigation/mobile_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable-v24_background2gg.jpeg.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable-v24\\background2gg.jpeg"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_trash_img.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/trash_img.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_custom_input.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/custom_input.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_activity_settings_password.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\activity_settings_password.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_app_bar_nav.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/app_bar_nav.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_activity_settings_phno.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\activity_settings_phno.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_baseline_home_24.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_menu_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_fragment_compost.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\fragment_compost.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_foodpic2.png.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/foodpic2.png"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\fragment_home.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/navigation_nav_graph3.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/navigation/nav_graph3.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_baseline_logout_24.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_baseline_logout_24.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/activity_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable-v24_backgroundsky.jpeg.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable-v24\\backgroundsky.jpeg"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_fragment_home_ngo.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/fragment_home_ngo.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_fragment_profile.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\fragment_profile.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable-v24_background1gg.jpeg.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable-v24/background1gg.jpeg"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_baseline_account_box_24.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_baseline_account_box_24.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_foodpic2.png.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\foodpic2.png"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable-v24_background2gg.jpeg.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable-v24/background2gg.jpeg"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_baseline_phone_24.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_baseline_phone_24.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable-v24_foodbackground.jpg.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable-v24/foodbackground.jpg"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_app_bar_nav.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\app_bar_nav.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_nav_header_nav.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/nav_header_nav.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\layout_fragment_home_ngo.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\layout\\fragment_home_ngo.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/menu_activity_nav2_drawer.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/menu/activity_nav2_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable-v24_foodbackbround.JPG.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable-v24\\foodbackbround.JPG"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_fragment_contact.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/fragment_contact.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_baseline_history_24.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_baseline_history_24.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/layout_activity_ngo_home.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/layout/activity_ngo_home.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_baseline_arrow_back_24.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_baseline_arrow_back_24.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_login_button.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/login_button.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\navigation\\nav_graph.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.foodwaste.app-main-7:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\navigation_mobile_navigation.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\navigation\\mobile_navigation.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_ic_baseline_contact_page_24.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\ic_baseline_contact_page_24.xml"
-    },
-    {
-        "merged": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-merged_res-35:\\drawable_pass_lock.xml.flat",
-        "source": "C:\\Users\\suvetha\\.gradle\\daemon\\7.3.3\\com.example.foodwaste.app-main-37:\\drawable\\pass_lock.xml"
+        "merged": "com.example.foodwaste.app-merged_res-5:/drawable_home_address.xml.flat",
+        "source": "com.example.foodwaste.app-main-7:/drawable/home_address.xml"
     }
 ]
